@@ -45,6 +45,7 @@ library(maps)        # supplies world polygons
 
 theme_set(theme_light(base_size = 12))
 set.seed(6210)  # reproducible resampling
+#edit sample
 
 ##-------------------- Working directory / paths (simple) ---------------------------
 # Open the project .Rproj at the project root.
